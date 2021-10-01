@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uoehoswi3
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Programing and Python
+- 🌱 I’m currently learning Java Language Programming
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me ---
 
