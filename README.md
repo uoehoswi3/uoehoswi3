@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soyeon Kim
+- 👋 Hi, I’m Soyeon Kim.
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning how to make apps
 - 💞️ I’m looking to collaborate on ---
