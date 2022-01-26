@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soyeon Kim.
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning how to make apps
+- 🌱 I’m currently learning about git.
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me ---
 
