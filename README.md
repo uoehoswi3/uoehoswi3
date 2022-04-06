@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soyeon Kim.
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning about git.
-- 💞️ I’m looking to collaborate on ---
+- 💞️ The project I'm working on recently is 'EuljiHaru'.
 - 📫 How to reach me ---
 
 <!---
